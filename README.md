@@ -1,4 +1,5 @@
-### Hey there, I'm Sharath👋 [<img width="30px" src="https://img.icons8.com/ios/50/000000/ios-development.png"/>]
+### Hey there, I'm Sharath👋 
+[<img width="30px" src="https://img.icons8.com/ios/50/000000/ios-development.png"/>]
 
 ## I'm RPA Developer, and Electrical Engineer!!
 
