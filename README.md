@@ -3,7 +3,7 @@
 
 ## I'm RPA Developer, and Electrical Engineer!!
 
-- 🔭 I’m From Kerala India
+- 🔭 I’m From Kerala, India
 - 🌱 I’m currently learning everything
 - 👯 Ask me about anything, I am Happy to Help
 - 🥅 2021 Goals: Learn new thing in programming
