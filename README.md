@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Vscode]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="Robocorp" width="26px" src="https://avatars.githubusercontent.com/u/54288445?s=200&v=4" />][]
+[<img align="left" alt="Robocorp" width="26px" src="https://avatars.githubusercontent.com/u/54288445?s=200&v=4" />][python]
 [<img align="left" alt="UiPath" width="26px" src="https://iconape.com/wp-content/png_logo_vector/uipath-logo.png" />][]
 [<img align="left" alt="Powerautomate" width="26px" src="https://img.icons8.com/fluency/48/000000/microsoft-power-automate-2020.png" />][python]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][python]
