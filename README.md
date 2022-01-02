@@ -1,7 +1,7 @@
-### Hey there, I'm Sharath👋 
+### Hey there, I'm Sharath <img width="30px" src="https://cdn-icons-png.flaticon.com/512/4830/4830646.png" />
 
 
-## I'm RPA Developer, and Electrical Engineer!!
+## I'm RPA Developer, and Electrical Engineer!! <img width="30px" src="https://cdn-icons.flaticon.com/png/512/4658/premium/4658968.png?token=exp=1641107984~hmac=f0510efe6022bfa0f7e6856a7066a1fa" />
 
 - 🔭 I’m From Kerala, India
 - 🌱 I’m currently learning everything
