@@ -1,5 +1,5 @@
 ### Hey there, I'm Sharath👋 
-[<img width="30px" src="https://img.icons8.com/ios/50/000000/ios-development.png"/>]
+[<img align="left" width="30px" src="https://img.icons8.com/ios/50/000000/ios-development.png"/>]
 
 ## I'm RPA Developer, and Electrical Engineer!!
 
