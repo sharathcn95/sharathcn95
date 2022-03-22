@@ -6,7 +6,7 @@
 - 🔭 I’m From Kerala, India
 - 🌱 I’m currently learning everything
 - 👯 Ask me about anything, I am Happy to Help
-- 🥅 2021 Goals: Learn new thing in programming
+- 🥅 2022 Goals: Learn new thing in programming
 - ⚡ I love to Play Basketball
 
 ### Connect with me:
